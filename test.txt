@@ -1,8 +1,0 @@
-//This is  a Test
-//Here I get something change in this text
-
-public class Test{
-	public void main(String[] args){
-		System.out.Println("Hello Watermelon!");
-	}
-}
